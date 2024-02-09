@@ -1,6 +1,5 @@
-**Arithmetic Arranger**
+# Arithmetic Arranger
 
-**Description:**
 This Python script provides a function to arrange arithmetic problems vertically, handling errors and optionally displaying answers. It is designed to format and display arithmetic problems in a visually appealing and easy-to-read manner, similar to how students arrange problems in primary school.
 
 **Features:**
